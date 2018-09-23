@@ -1,3 +1,3 @@
 var playlist = {
-  Kelly, Jenna
+  Kelly: "mornings", Jenna: "nights"
 }
