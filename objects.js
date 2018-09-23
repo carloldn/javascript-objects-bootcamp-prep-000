@@ -1,4 +1,5 @@
 var playlist = {
   Kelly: "mornings", Jenna: "nights"
 };
-var updatePlaylist: [plylist, artistname, songtitle]
+var updatePlaylist= {"playlist", "artistname", "songtitle"};
+
