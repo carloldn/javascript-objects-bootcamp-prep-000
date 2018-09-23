@@ -1,7 +1,10 @@
 var playlist = {
   Kelly: "mornings", Jenna: "nights"
 };
-playlist.assign ( {},playlist, {[artistname]:songtitle}
-removeFromPlaylist (playlist, artistName);
-  delete playlist [artistName];
-  return updatedPlaylist;
+function updatePlaylist(playlistObject, artist, title) {
+  playlistObj[artist] = title;
+  return playlistObject;
+}
+function removeFromPlaylist(playlistObject, artist) {
+  delete playlistObject[artist];
+  return playlistObject;}
