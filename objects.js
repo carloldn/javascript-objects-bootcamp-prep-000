@@ -2,5 +2,5 @@ var playlist = {
   Kelly: "mornings", Jenna: "nights"
 };
 function updatePlaylist (playlist, artistname, songtitle){
-return (updatePlaylist)
+return playlist.assign)
 removeFromPlaylist.slice
