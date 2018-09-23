@@ -1,6 +1,6 @@
 var playlist = {
   Kelly: "mornings", Jenna: "nights"
 };
-function updatePlaylist (playlist, artistname, songtitle)
-console.log (updatePlaylist)
+function updatePlaylist (playlist, artistname, songtitle){
+return (updatePlaylist)
 removeFromPlaylist.slice
